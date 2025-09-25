@@ -1,0 +1,6 @@
+User(IdUtente,Password,NomeUtente)
+
+Key(IdKey,Key,valTrasposizione,Utente_ID*)
+
+
+Strings(idStrings,monkeyString,cryptoString,Key_ID*)
